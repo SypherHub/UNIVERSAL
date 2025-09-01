@@ -8,7 +8,8 @@ local creator = game.CreatorId
 
 local games = {
     [1848960] = "https://pandadevelopment.net/virtual/file/adc9290f33bda7b4"
-
+    [35102746] = "https://raw.githubusercontent.com/VortXHub/loader/main/freee.lua"
+    
 } 
 
 if games[creator] then 
